@@ -1,3 +1,7 @@
+//construtor em dart
+
+
+
 void main(){
   Pessoa Pessoa1 = Pessoa(nome: 'Kiwada', idade : 20);
   print(Pessoa1.nome);
@@ -38,7 +42,7 @@ class Pessoa{
       idade++; 
     return idade;
   }
-  
+
   void casar(){
     casado = true;
   }
