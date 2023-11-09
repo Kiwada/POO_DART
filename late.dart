@@ -2,7 +2,7 @@ void main(){
   Pessoa pessoa1 = Pessoa(nome: 'Daniel ', idade: 40);
   pessoa1.cpf = '6161666793';
   print(pessoa1.cpf);
-  print(pessoa1.temperatura);
+
   
 }
 
